@@ -1,0 +1,9 @@
+# files
+cache*
+
+# folder
+outputs/
+.vscode
+tmp/
+**/__pycache__
+pretrained/
